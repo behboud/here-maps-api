@@ -1,8 +1,23 @@
 {
   "name": "here-maps-api",
+  "description": "HERE Maps API for Javascript",
+  "license": "Copyright (c) HERE, a Nokia company. All rights reserved",
+  "keywords": [
+    "here",
+    "maps",
+    "api",
+    "javascript",
+    "web-app",
+    "client-side"
+  ],
+  "authors": ["HERE, a Nokia company"],
+  "homepage": "http://developer.here.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peteratt/here-maps-api.git"
+  },
   "version": "2.5.4",
   "main": "./jsla.min.js",
   "ignore": [],
-  "dependencies": {
-  }
+  "dependencies": {}
 }
