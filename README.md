@@ -1,4 +1,4 @@
 here-maps-api
 =============
 
-HERE Maps Api for Javascript
+Bower package - HERE Maps Api for Javascript

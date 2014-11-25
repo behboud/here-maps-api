@@ -1,0 +1,8 @@
+{
+  "name": "here-maps-api",
+  "version": "2.5.4",
+  "main": "./jsla.min.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
