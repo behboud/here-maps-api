@@ -1,8 +1,8 @@
 {
   "name": "here-maps-api",
-  "version": "2.5.4",
+  "version": "3.0.0",
   "description": "HERE Maps Api for Javascript",
-  "main": "jsla.min.js",
+  "main": "mapsjs-core.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

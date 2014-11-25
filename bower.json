@@ -16,8 +16,8 @@
     "type": "git",
     "url": "https://github.com/peteratt/here-maps-api.git"
   },
-  "version": "2.5.4",
-  "main": "./jsla.min.js",
+  "version": "3.0.0",
+  "main": "./mapsjs-core.js",
   "ignore": [],
   "dependencies": {}
 }
