@@ -1,14 +1,20 @@
 {
-  "name": "here-maps-api",
+  "name": "here-maps-api-extended",
   "version": "3.0.0",
   "description": "HERE Maps Api for Javascript",
-  "main": "mapsjs-core.js",
+  "main": [
+	"./mapsjs-core.js",
+	"./modules/service/mapsjs-service.js",
+	"./modules/mapevents/mapsjs-mapevents.js",
+	"./modules/ui/mapsjs-ui.js",
+	"./modules/ui/mapsjs-ui.css"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peteratt/here-maps-api.git"
+    "url": "https://github.com/simonking91/here-maps-api.git"
   },
   "keywords": [
     "here",
